@@ -1,0 +1,20 @@
+# Core (temporal_threshold/ and tutorials/)
+torch>=2.6.0
+torchvision>=0.21.0
+snntorch>=0.9.4
+numpy>=1.26.4
+matplotlib>=3.10.3
+
+# N-MNIST tutorial
+tonic>=1.6.0
+
+# Optional: Optuna notebook
+optuna>=4.5.0
+
+# EEG notebook (eeg/)
+mne>=1.9.0
+scipy>=1.15.3
+pandas>=2.2.3
+scikit-learn>=1.6.1
+seaborn>=0.13.2
+plotly>=6.1.2

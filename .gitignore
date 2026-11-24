@@ -1,0 +1,17 @@
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Datasets (downloaded locally, never committed)
+data/
+eeg/data/
+*.edf
+*.mat
+
+# Model checkpoints and per-run logs
+*.pth
+*.pt
+temporal_threshold/results/*.log

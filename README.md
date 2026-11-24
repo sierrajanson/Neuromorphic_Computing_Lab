@@ -1,4 +1,4 @@
-# Spiking Neural Networks — CMPM 118 (UC Santa Cruz)
+# Spiking Neural Networks — CMPM 118 Collaborative Research in Engineering (UC Santa Cruz)
 
 Coursework and research experiments with spiking neural networks (SNNs) in
 [snnTorch](https://snntorch.readthedocs.io/). The main project is a
@@ -168,4 +168,4 @@ snnTorch tutorial follow-alongs, kept as learning notes:
 
 Built with [snnTorch](https://github.com/jeshraghian/snntorch) (Eshraghian et al.).
 The N-MNIST version of the temporal-threshold experiments was done by collaborator
-Namita Mishra and lives in the git history (`nminist.ipynb`).
+Shubhi Mishra and lives in the git history (`nminist.ipynb`).
